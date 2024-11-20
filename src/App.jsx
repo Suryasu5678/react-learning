@@ -12,7 +12,8 @@ function App() {
       <CounterComponent />
       {/* <Incdec />
       <IncBytwo /> */}
-      <UseEffect/>
+      <UseEffect />
+      
     </div>
   );
 }
